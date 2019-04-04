@@ -1,0 +1,6 @@
+car
+food
+hand
+man
+neck
+finger
